@@ -10,6 +10,6 @@ pre-requisite
 - create a maven quick start project in intelliJ
 - create a test class under src->test->java
 - write code
-- start chromer driver either manually or with code
+- start chrome driver either manually or with code
 - start adb bridge
 - run maven test
